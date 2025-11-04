@@ -1,0 +1,5 @@
+{
+  "name": "Carbon NFT Booking",
+  "description": "An application to book a carbon offset and generate a unique, conceptual NFT representing the environmental contribution using Gemini.",
+  "requestFramePermissions": []
+}

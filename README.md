@@ -6,18 +6,13 @@ A modern, responsive web application that simulates the creation and minting of 
 
 ## 📸 Application Showcase
 
-| **Home Page** | **Login** | **Personalized Dashboard** |
-| :---: | :---: | :---: |
-| ![Home Page](https://github.com/ranveerst33/Carbon-Nft-Booking/blob/5f4649d442247dfac0d80e0b06c4cc74e4254181/Screenshot%202025-11-04%20124152.png?raw=true) | ![Login Modal](https://github.com/ranveerst33/Carbon-Nft-Booking/blob/5f4649d442247dfac0d80e0b06c4cc74e4254181/Screenshot%202025-11-04%20124335.png?raw=true) | ![NFT Dashboard](https://github.com/ranveerst33/Carbon-Nft-Booking/blob/5f4649d442247dfac0d80e0b06c4cc74e4254181/Screenshot%202025-11-04%20124349.png?raw=true) |
+A visual walkthrough of the application's user flow, from logging in to minting and viewing an NFT.
 
-| **Generate NFT** | **Preview NFT** | **Mint NFT** |
-| :---: | :---: | :---: |
-| ![Generate NFT](https://github.com/ranveerst33/Carbon-Nft-Booking/blob/5f4649d442247dfac0d80e0b06c4cc74e4254181/Screenshot%202025-11-04%20124409.png?raw=true) | ![Preview NFT](https://github.com/ranveerst33/Carbon-Nft-Booking/blob/5f4649d442247dfac0d80e0b06c4cc74e4254181/Screenshot%202025-11-04%20124437.png?raw=true) | ![Mint NFT](https://github.com/ranveerst33/Carbon-Nft-Booking/blob/5f4649d442247dfac0d80e0b06c4cc74e4254181/Screenshot%202025-11-04%20124445.png?raw=true) |
-
-| **View in Dashboard** | **Read More (Detail View)** |
-| :---: | :---: |
-| ![View in Dashboard](https://github.com/ranveerst33/Carbon-Nft-Booking/blob/5f4649d442247dfac0d80e0b06c4cc74e4254181/Screenshot%202025-11-04%20124453.png?raw=true) | ![Read More](https://github.com/ranveerst33/Carbon-Nft-Booking/blob/5f4649d442247dfac0d80e0b06c4cc74e4254181/Screenshot%202025-11-04%20124502.png?raw=true) |
-
+| **1. Home Page** | **2. Simulated Login** | **3. Empty Dashboard** | **4. Fill in Details** |
+| :---: | :---: | :---: | :---: |
+| ![Home Page](https://github.com/ranveerst33/Carbon-Nft-Booking/blob/5f4649d442247dfac0d80e0b06c4cc74e4254181/Screenshot%202025-11-04%20124152.png?raw=true) | ![Login Modal](https://github.com/ranveerst33/Carbon-Nft-Booking/blob/5f4649d442247dfac0d80e0b06c4cc74e4254181/Screenshot%202025-11-04%20124335.png?raw=true) | ![NFT Dashboard](https://github.com/ranveerst33/Carbon-Nft-Booking/blob/5f4649d442247dfac0d80e0b06c4cc74e4254181/Screenshot%202025-11-04%20124349.png?raw=true) | ![Generate NFT](https://github.com/ranveerst33/Carbon-Nft-Booking/blob/5f4649d442247dfac0d80e0b06c4cc74e4254181/Screenshot%202025-11-04%20124409.png?raw=true) |
+| **5. AI-Generated Preview** | **6. Minting Confirmation** | **7. NFT in Dashboard** | **8. Full Detail View** |
+| ![Preview NFT](https://github.com/ranveerst33/Carbon-Nft-Booking/blob/5f4649d442247dfac0d80e0b06c4cc74e4254181/Screenshot%202025-11-04%20124437.png?raw=true) | ![Mint NFT](https://github.com/ranveerst33/Carbon-Nft-Booking/blob/5f4649d442247dfac0d80e0b06c4cc74e4254181/Screenshot%202025-11-04%20124445.png?raw=true) | ![View in Dashboard](https://github.com/ranveerst33/Carbon-Nft-Booking/blob/5f4649d442247dfac0d80e0b06c4cc74e4254181/Screenshot%202025-11-04%20124453.png?raw=true) | ![Read More](https://github.com/ranveerst33/Carbon-Nft-Booking/blob/5f4649d442247dfac0d80e0b06c4cc74e4254181/Screenshot%202025-11-04%20124502.png?raw=true) |
 
 ---
 

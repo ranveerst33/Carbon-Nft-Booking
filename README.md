@@ -19,13 +19,14 @@ A visual walkthrough of the application's user flow, from logging in to minting 
 ## ✨ Features
 
 - **🤖 AI-Powered NFT Generation**: Utilizes **Google Gemini** (`gemini-2.5-flash` for text and `imagen-4.0-generate-001` for images) to create unique, high-quality artwork and descriptions for each NFT based on user inputs.
-- **🔐 Simulated Wallet Login**: A persistent, username-based login system that perfectly mimics a real dApp wallet connection without requiring MetaMask or a real blockchain. This allows for a seamless demonstration and user testing experience.
+- **🔐 Simulated Wallet Login**: A persistent, username-based login system that perfectly mimics a real dApp wallet connection without requiring MetaMask or a real blockchain.
+- **🔄 Persistent Collections**: Log in with the same username to seamlessly access all your previously minted NFTs. Your collection is always saved and ready for you.
 - **🖼️ Personalized NFT Dashboard**: After logging in, users have access to a personal dashboard displaying a gallery of all the NFTs they have "minted," tied to their unique username.
-- ** minting Minting Flow**: A professional two-step process where users first generate a preview of their NFT, and then click to "mint" it to their personal collection.
+- **✨ Professional Minting Flow**: A seamless two-step process where users first generate an AI-powered preview of their NFT, and then click to "mint" it, which adds the unique collectible to their personal dashboard.
 - **💅 Modern & Responsive UI**: Features a sleek, dark theme with vibrant green accents, built with **Tailwind CSS** for a clean and professional look that adapts beautifully to any screen size.
-- **📜 Detailed NFT View**: Includes a "Read More" model that allows users to view the full, unabridged AI-generated description and other details of each NFT.
+- **📜 Detailed NFT View**: Includes a "Read More" modal that allows users to view the full, unabridged AI-generated description and other details of each NFT.
 - **💾 Local Persistence**: Your simulated wallet address and all minted NFTs are saved in your browser's local storage, allowing you to log out and log back in to the same account.
-- **✅ Polished User Feedback**: Custom, animated models provide clear feedback for login and successful minting transactions.
+- **✅ Polished User Feedback**: Custom, animated modals provide clear feedback for login and successful minting transactions.
 
 ## 🛠️ Technology Stack
 

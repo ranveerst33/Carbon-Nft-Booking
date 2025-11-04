@@ -6,7 +6,7 @@ A modern, responsive web application that simulates the creation and minting of 
 
 ## 📸 Application Showcase
 
-| **Home Page** | **Login Modal** | **Personalized Dashboard** |
+| **Home Page** | **Login** | **Personalized Dashboard** |
 | :---: | :---: | :---: |
 | ![Home Page](https://github.com/ranveerst33/Carbon-Nft-Booking/blob/5f4649d442247dfac0d80e0b06c4cc74e4254181/Screenshot%202025-11-04%20124152.png?raw=true) | ![Login Modal](https://github.com/ranveerst33/Carbon-Nft-Booking/blob/5f4649d442247dfac0d80e0b06c4cc74e4254181/Screenshot%202025-11-04%20124335.png?raw=true) | ![NFT Dashboard](https://github.com/ranveerst33/Carbon-Nft-Booking/blob/5f4649d442247dfac0d80e0b06c4cc74e4254181/Screenshot%202025-11-04%20124349.png?raw=true) |
 

@@ -64,3 +64,8 @@ Simply open the `index.html` file in a web browser. For the best experience, it'
 ---
 
 This project was created to demonstrate the integration of modern frontend technologies with powerful generative AI for creating compelling and interactive web applications.
+
+### ✨ Author
+
+**Ranveer Singh Thakur**
+📧 ranveersingh.thakur174@nmims.edu.in

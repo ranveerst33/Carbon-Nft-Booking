@@ -68,4 +68,4 @@ This project was created to demonstrate the integration of modern frontend techn
 ### ✨ Author
 
 **Ranveer Singh Thakur**
-📧 ranveersingh.thakur174@nmims.edu.in
+📧 ranveerst33gmail.com
